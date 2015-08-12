@@ -9,7 +9,7 @@ const int nCOLS = 8;
 
 const int PINS[nROWS] = {10, 11, 12, 13, 14, 15, 16, 17};   //The pins used to control the anode of the display
 
-const int ROW_DELAY_TIME = 180;
+const int ROW_DELAY_TIME = 160;
 
 const int DEFAULT_MAX_BRIGHTNESS = 15;
 
